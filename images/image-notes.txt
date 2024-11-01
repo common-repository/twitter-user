@@ -1,0 +1,18 @@
+=== Twitter User ===
+Contributors: BloggingTips
+Tags: twitter, sidebar, multi-author
+Requires at least: 2.7
+Tested up to: 2.7.1
+Stable tag: 1.0
+
+
+Using an image should increase the exposure to your Twitter link. You can download a large image of the Twitter logo in PNG,Photoshop and Illustrator format on <a href="http://twitter.com/about">Twitters About page</a>. Using these images you should be able to design a unique Twitter follow me logo for your blog.
+
+We understand that some people struggle with logo design therefore we have included two basic images in this zip. Simply save the image to your hard drive, upload it to your webhost and then link to it in the Twitter User settings area. 
+
+If you would like to share a Twitter image with other BloggingTips users, please post the image in the <a href="http://www.bloggingtips.com/forums/forumdisplay.php?f=7">BloggingTips WordPress Plugin Support Room</a>. A link to the designers blog/website will be posted next to the link. Alternatively, if there is specific text you would like to see on an image please let us know and we will do our best to design it.
+
+
+== Support ==
+
+Support is provided at http://www.bloggingtips.com/forums/forumdisplay.php?f=7
